@@ -1,0 +1,2 @@
+- name: Autosquash
+  uses: tibdex/autosquash@v2.0.1
